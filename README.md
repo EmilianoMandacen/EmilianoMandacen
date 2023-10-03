@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+I’m from Montevideo, Uruguay. I like to work on FrontEnd and in BackEnd :octocat:
+- 🔭 I’m currently working on my school proyect
+- 🌱 I’m currently learning Html, Php, Css, Js, MySQL
+- 🤔 I’m looking for help with Js
+- 💬 Ask me about anything
+- 📫 How to reach me: Emilianomandacen@gmail.com
+- 😄 Pronouns: he/him
 <!--
 **EmilianoMandacen/EmilianoMandacen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
